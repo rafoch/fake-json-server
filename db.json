@@ -1,0 +1,93 @@
+{
+    "steps": [{
+            "id": "7c68d1c5-db00-47ea-a737-cfa2d279874b",
+            "name": "Dolores sunt similique voluptas iure ea rerum nihil.",
+            "position": 0,
+            "type": "DELAY",
+            "operation": {
+                "waitInSeconds": "120"
+            }
+        },
+        {
+            "id": "ad64a4f5-d1a6-4d45-aea8-402ae5e61839",
+            "name": "Est qui debitis ex qui recusandae.",
+            "position": 1,
+            "type": "PRESS_KEY",
+            "operation": {
+                "keyToPress": "F1"
+            }
+        },
+        {
+            "id": "a12bb3ee-9afd-47bf-bfc4-c1425d740553",
+            "name": "Nulla omnis nihil.",
+            "position": 2,
+            "type": "DELAY",
+            "operation": {
+                "waitInSeconds": "122"
+            }
+        },
+        {
+            "id": "6f87b123-e707-498f-821d-a30bda53af5b",
+            "name": "Ab corporis magni quod atque aut consequatur.",
+            "position": 3,
+            "type": "PRESS_KEY",
+            "operation": {
+                "keyToPress": "F3"
+            }
+        },
+        {
+            "id": "ee536381-a41b-4dc5-843b-b969caad51ca",
+            "name": "Iste voluptatibus et nisi laborum dicta doloribus.",
+            "position": 4,
+            "type": "DELAY",
+            "operation": {
+                "waitInSeconds": "124"
+            }
+        },
+        {
+            "id": "5e2bcbcc-b2ff-4427-a868-d55f091663d4",
+            "name": "Est et voluptatem aut itaque id rerum.",
+            "position": 5,
+            "type": "PRESS_KEY",
+            "operation": {
+                "keyToPress": "F5"
+            }
+        },
+        {
+            "id": "0087692b-46c5-4644-b594-31435563f6bf",
+            "name": "Molestiae qui atque sit impedit.",
+            "position": 6,
+            "type": "DELAY",
+            "operation": {
+                "waitInSeconds": "126"
+            }
+        },
+        {
+            "id": "16381f5c-1129-487b-a703-453840b1be6c",
+            "name": "Voluptatem veritatis voluptas nam.",
+            "position": 7,
+            "type": "PRESS_KEY",
+            "operation": {
+                "keyToPress": "F7"
+            }
+        },
+        {
+            "id": "3f0d5723-aa36-4b3a-be1a-3145f9e4ea3f",
+            "name": "Quod et sed quos et dolorem laboriosam nam.",
+            "position": 8,
+            "type": "DELAY",
+            "operation": {
+                "waitInSeconds": "128"
+            }
+        },
+        {
+            "id": "52b94a37-3f5b-4f0b-bd8b-5492bc5d6533",
+            "name": "Et perspiciatis nostrum.",
+            "position": 9,
+            "type": "PRESS_KEY",
+            "operation": {
+                "keyToPress": "F9"
+            }
+        }
+    ]
+}
